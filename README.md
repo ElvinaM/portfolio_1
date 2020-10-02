@@ -2,6 +2,6 @@
 
 | Название проекта со ссылкой | Краткое описание          | Библиотеки                  |
 | :-------------------- | ---------------------- |-----------------------------|
-| [Отток клиентов]https://github.com/ElvinaM/portfolio_1/blob/main/fitnes_clients/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.ipynb | Прогнозирование оттока клиентов фитнес-центра на основании собранных данных о посещении за последний год |Pandas, Matplotlib, Sklearn, Seaborn|
+| [Отток клиентов] https://github.com/ElvinaM/portfolio_1/blob/main/fitnes_clients/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81%20%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0.ipynb | Прогнозирование оттока клиентов фитнес-центра на основании собранных данных о посещении за последний год |Pandas, Matplotlib, Sklearn, Seaborn|
 
 
