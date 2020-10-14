@@ -7,6 +7,8 @@
 |[Мобильное приложение](https://github.com/ElvinaM/portfolio_1/tree/main/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5 "Мобильное приложение")| Стартап по доставке продуктов. Определение воронки продаж и проведение A/A/B тестирования. | Pandas, Plotly, Matplotlib, Scipy, Math|
 |[A/B тест](https://github.com/ElvinaM/portfolio_1/tree/main/A_B%20тест "A/B тест") |Оценка корректности проведения теста, равномерности распределения выборки| Pandas, Plotly, Matplolib, Scipy, Math|
 |[SQL запрос](https://github.com/ElvinaM/portfolio_1/tree/main/SQL "SQL запрос") | База данных о поведении читателей электронных книг во время короны. Предложение на основе анализа данных|Pandas, SQL|
+|[Недвижимость](https://github.com/ElvinaM/portfolio_1/tree/main/%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C "Недвижимость")|Определить рыночную стоимость объектов недвижимости. Установить параметры для отслеживания цены|Pandas, Seaborn|
+
 
 
 
